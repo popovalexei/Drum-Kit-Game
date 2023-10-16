@@ -7,5 +7,3 @@ The site was made during Udemy course, for CV purposes.
 You can access the site here - https://popovalexei.github.io/Drum-Kit-Game/
 
 Technologies used: HTML, CSS, JavaScript.
-
-Testing to see if git is working
